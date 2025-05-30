@@ -53,4 +53,7 @@ Saat mengubah status dari Tersedia menjadi Tidak Tersedia, maka masukkan huruf �
 
 Untuk mengubah status dari Tidak Tersedia menjadi Tersedia, maka masukkan huruf ‘Y’.
 
-0.	Kembali  Digunakan untuk kembali ke menu utama.
+0.	Kembali --> Digunakan untuk kembali ke menu utama.
+
+
+
