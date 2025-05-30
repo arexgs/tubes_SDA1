@@ -10,9 +10,9 @@ Program saat dijalankan:
 •	Setelah di compile. Program akan mengoutput tampilan Selamat Datang dan 13 Menu Utama (termasuk menu keluar).
  
  ![image](https://github.com/user-attachments/assets/ce408004-1fbf-4b9d-b280-e9424ca5acb1)
-
->>
-
+>
+>
+>
 ### •	**Menu 1. Kelola dokter**
  
  ![image](https://github.com/user-attachments/assets/c0e1d65c-e026-4008-a204-93dd8529c937)
