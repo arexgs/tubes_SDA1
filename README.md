@@ -3,7 +3,7 @@ Untuk menjalankan program Daisuke Clinic yang telah di modularisi ke dalam beber
 Untuk memulai program
 1. Buka Terminal untuk mengcompile program
 2. Compile semua program java dengan:
-3. Setelah di compile jalankan file Main (Pada program kami menggunakan "SistemManajemenRumahSakit")
+3. Setelah di compile jalankan file Main
 
 Program saat dijalankan:
 
