@@ -1,4 +1,4 @@
-,Untuk menjalankan program Daisuke Clinic yang telah di modularisi ke dalam beberapa file
+Untuk menjalankan program Daisuke Clinic yang telah di modularisi ke dalam beberapa file
 
 Untuk memulai program
 1. Buka Terminal untuk mengcompile program
@@ -56,6 +56,14 @@ Untuk mengubah status dari Tidak Tersedia menjadi Tersedia, maka masukkan huruf 
 0.	Kembali --> Digunakan untuk kembali ke menu utama.
 
 
+
+
+
+
+
+
+
+
 •	Menu 2. Kelola Pasien
  
 Pada menu ini memiliki beberapa pilihan:
@@ -69,13 +77,13 @@ Saat mendaftarkan pasien baru, pengguna disuruh untuk mengisi Nama, Umur, Alamat
 
 Namun jika pengguna memasukkan ID Pasien yang sudah ada program akan memberi tau jika sudah ada pasien dengan ID tersebut.
 
-2.	Lihat Semua Pasien  Untuk melihat semua pasien yang ada
+2.	Lihat Semua Pasien --> Untuk melihat semua pasien yang ada
 
  ![image](https://github.com/user-attachments/assets/8fba2f99-5257-4497-9c78-2c4ab77863d2)
 
 Pada menu ini akan menampilkan semua pasien yang ada beserta dengan jam masuk RS dan golongan darahnya.
 
-3.	Cari Pasien  Untuk mencari pasien
+3.	Cari Pasien --> Untuk mencari pasien
 
  ![image](https://github.com/user-attachments/assets/97479fa7-12de-467f-896b-48e771f48c3e)
 
@@ -85,5 +93,5 @@ Pada menu ini pengguna akan disuruh untuk memasukkan nama atau ID Pasien. Jika d
 
 Namun, jika kita memasukkan nama atau ID Pasien yang tidak valid, maka program akan memberi tahu jika Pasien tidak ditemukan.
 
-0.	Kembali  Digunakan untuk kembali ke menu utama
+0.	Kembali --> Digunakan untuk kembali ke menu utama
 
