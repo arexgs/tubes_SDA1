@@ -11,13 +11,14 @@ Program saat dijalankan:
  
  ![image](https://github.com/user-attachments/assets/ce408004-1fbf-4b9d-b280-e9424ca5acb1)
 
+>>
 
-•	**Menu 1. Kelola dokter**
+###•	**Menu 1. Kelola dokter**
  
  ![image](https://github.com/user-attachments/assets/c0e1d65c-e026-4008-a204-93dd8529c937)
 
 Pada menu ini memiliki beberapa pilihan:
-1.	Tambah Dokter --> Menu ini digunakan untuk menambahkan dokter baru
+> 1.	Tambah Dokter --> Menu ini digunakan untuk menambahkan dokter baru
  
  ![image](https://github.com/user-attachments/assets/9bcadb25-dcd4-4632-b7b4-3373080380e3)
 
@@ -27,13 +28,13 @@ Menu ini akan meminta pengguna untuk memasukkan ID Dokter, Nama, Umur, Alamat, T
 
 Namun jika pengguna memasukkan ID Dokter yang sudah ada program akan memberi tau jika sudah ada dokter dengan ID tersebut.
 
-2.	Lihat Semua Dokter --> Menu ini menampilkan semua dokter yang ada di RS ini
+> 2.	Lihat Semua Dokter --> Menu ini menampilkan semua dokter yang ada di RS ini
  
 ![image](https://github.com/user-attachments/assets/c3370d12-6b2c-42a9-9913-5f1a63aee739)
 
 Menu ini akan menampilkan nama dokter secara terurut berdasarkan abjad namanya, dan diikuti dengan ID Dokter, Spesialis, dan Ketersediaannya.
 
-3.	Cari Dokter --> Menu ini digunakan untuk mencari dokter 
+> 3.	Cari Dokter --> Menu ini digunakan untuk mencari dokter 
 
  ![image](https://github.com/user-attachments/assets/6ccd9383-4f46-4217-b720-2e6642846d7a)
 
@@ -43,7 +44,7 @@ Saat kita memasukkan nama atau ID Dokter, maka program akan memberi tahu apakah 
 
 Namun, jika kita memasukkan nama atau ID Dokter yang tidak ada, maka program akan memberi tahu jika dokter tidak ditemukan.
 
-4.	Update Status Ketersediaan --> Mengubah Status Ketersediaan Dokter
+> 4.	Update Status Ketersediaan --> Mengubah Status Ketersediaan Dokter
 
  ![image](https://github.com/user-attachments/assets/9fb42416-ef36-417b-8ef3-ef98ddf46ea1)
 
@@ -53,11 +54,11 @@ Saat mengubah status dari Tersedia menjadi Tidak Tersedia, maka masukkan huruf �
 
 Untuk mengubah status dari Tidak Tersedia menjadi Tersedia, maka masukkan huruf ‘Y’.
 
-0.	Kembali --> Digunakan untuk kembali ke menu utama.
+> 0.	Kembali --> Digunakan untuk kembali ke menu utama.
 
+>>
 
-
-**•	Menu 2. Kelola Pasien**
+###**•	Menu 2. Kelola Pasien**
  
 Pada menu ini memiliki beberapa pilihan:
 > 1.	Daftar Pasien Baru --> Digunakan untuk menambahkan pasien baru
@@ -76,7 +77,7 @@ Namun jika pengguna memasukkan ID Pasien yang sudah ada program akan memberi tau
 
 Pada menu ini akan menampilkan semua pasien yang ada beserta dengan jam masuk RS dan golongan darahnya.
 
-3.	Cari Pasien --> Untuk mencari pasien
+> 3.	Cari Pasien --> Untuk mencari pasien
 
  ![image](https://github.com/user-attachments/assets/97479fa7-12de-467f-896b-48e771f48c3e)
 
@@ -86,5 +87,5 @@ Pada menu ini pengguna akan disuruh untuk memasukkan nama atau ID Pasien. Jika d
 
 Namun, jika kita memasukkan nama atau ID Pasien yang tidak valid, maka program akan memberi tahu jika Pasien tidak ditemukan.
 
-0.	Kembali --> Digunakan untuk kembali ke menu utama
+> 0.	Kembali --> Digunakan untuk kembali ke menu utama
 
