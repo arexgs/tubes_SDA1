@@ -58,7 +58,7 @@ Untuk mengubah status dari Tidak Tersedia menjadi Tersedia, maka masukkan huruf 
 
 >>
 
-###**•	Menu 2. Kelola Pasien**
+### **•	Menu 2. Kelola Pasien**
  
 Pada menu ini memiliki beberapa pilihan:
 > 1.	Daftar Pasien Baru --> Digunakan untuk menambahkan pasien baru
