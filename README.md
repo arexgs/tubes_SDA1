@@ -12,7 +12,7 @@ Program saat dijalankan:
  ![image](https://github.com/user-attachments/assets/ce408004-1fbf-4b9d-b280-e9424ca5acb1)
 
 
-•	Menu 1. Kelola dokter
+•	**Menu 1. Kelola dokter**
  
  ![image](https://github.com/user-attachments/assets/c0e1d65c-e026-4008-a204-93dd8529c937)
 
@@ -57,17 +57,10 @@ Untuk mengubah status dari Tidak Tersedia menjadi Tersedia, maka masukkan huruf 
 
 
 
-
-
-
-
-
-
-
-•	Menu 2. Kelola Pasien
+**•	Menu 2. Kelola Pasien**
  
 Pada menu ini memiliki beberapa pilihan:
-1.	Daftar Pasien Baru --> Digunakan untuk menambahkan pasien baru
+> 1.	Daftar Pasien Baru --> Digunakan untuk menambahkan pasien baru
 
  ![image](https://github.com/user-attachments/assets/c77087e1-2423-4063-82c3-1b54b647821f)
 
@@ -77,7 +70,7 @@ Saat mendaftarkan pasien baru, pengguna disuruh untuk mengisi Nama, Umur, Alamat
 
 Namun jika pengguna memasukkan ID Pasien yang sudah ada program akan memberi tau jika sudah ada pasien dengan ID tersebut.
 
-2.	Lihat Semua Pasien --> Untuk melihat semua pasien yang ada
+> 2.	Lihat Semua Pasien --> Untuk melihat semua pasien yang ada
 
  ![image](https://github.com/user-attachments/assets/8fba2f99-5257-4497-9c78-2c4ab77863d2)
 
