@@ -6,6 +6,7 @@ Untuk memulai program
 3. Setelah di compile jalankan file Main (Pada program kami menggunakan "SistemManajemenRumahSakit")
 
 Program saat dijalankan:
+
 •	Setelah di compile. Program akan mengoutput tampilan Selamat Datang dan 13 Menu Utama (termasuk menu keluar).
  
  ![image](https://github.com/user-attachments/assets/ce408004-1fbf-4b9d-b280-e9424ca5acb1)
