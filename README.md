@@ -139,7 +139,7 @@ Jika memasukkan ID Pasien atau ID Dokter yang tidak ada pada sistem, program aka
  > ![image](https://github.com/user-attachments/assets/f4c4b528-0bf5-46f7-aa6c-003a30636b5e)
 
 Menu ini akan menampilkan semua janji temu yang sudah didaftarkan pada menu buat janji temu baru. Pada Menu ini akan menampilkan ID Janji – ID Pasien – ID Dokter – Tanggal buat janji – Status Janji Temu.
-#### 3.	Update Status Janji Temu 
+#### 3.	Update Status Janji Temu
 
  > ![image](https://github.com/user-attachments/assets/0d09eaf7-e8a0-4555-883a-50e5dec42028)
 
@@ -150,3 +150,122 @@ Menu ini digunakan untuk mengupdate status janji temu dengan pilihan Pending, Se
 
 Menu ini digunakanuntuk melihat Janji Temu Pasien dengan memasukkan ID Pasien
 #### 0.	Kembali : Digunakan untuk kembali ke menu utama
+
+### •	Menu 5. Kelola Kamar
+
+ > ![image](https://github.com/user-attachments/assets/3ae89081-23f6-46b9-b8fa-1b5a893d88be)
+
+Pada menu ini memiliki beberapa pilihan:
+#### 1.	Lihat Daftar Kamar
+
+ > ![image](https://github.com/user-attachments/assets/743f7515-8992-48d9-8361-8929553d8fed)
+
+Menu ini akan menampilkan nomor kamar, kelas kamar harga perhari dan status tersedia atau tidak.
+#### 2.	Check-in Pasien
+
+ > ![image](https://github.com/user-attachments/assets/8d64f601-f912-40b4-9679-cd09a3af232e)
+
+Untuk Check-in Pasien akan disuruh untuk memilih kamar dan memasukkan ID Pasien yang terdaftar di sistem, jika berhasil akan menampilkan pesan bahwa pasien sudah berhasil check-in di kamar yang dipilih.
+
+ > ![image](https://github.com/user-attachments/assets/0168b940-3c6d-4353-9575-d6653aeddbf5)
+
+Jika memasukkan ID Pasien yang tidak terdaftar maka akan menampilkan Pasien tidak ditemukan.
+
+ > ![image](https://github.com/user-attachments/assets/f29879e4-8b00-49f3-ad10-35e7831c1fc5)
+
+Jika memasukkan Nomor Kamar yang tidak terdaftar maka akan menampilkan Kamar tidak ditemukan.
+#### 3.	Check-Out Pasien
+
+ > ![image](https://github.com/user-attachments/assets/e27c3c83-c9eb-4437-95fe-aba5dfd73a17)
+
+Saat Check-Out Pasien, kita akan diminta untuk memasukkan nomor kamar yang digunakan dan jika digunakan maka akan menampilkan ID Pasien yang menggunakan dna check-out pun berhasil.
+
+ > ![image](https://github.com/user-attachments/assets/499f8920-354a-4ab9-8266-11836c7f0f91)
+
+Jika nomor kamar yang dipilih tidak ada pasien yang ada maka akan menampilkan pesan Kamar sudah kosong.
+
+ > ![image](https://github.com/user-attachments/assets/b3fb1647-3247-4a21-aa55-d09e8e0ac1a4)
+
+Jika memasukkan nomor kamar yang tidak terdaftar di sistem maka akan menampilkan kamar tidak ditemukan.
+#### 0.	Kembali : Digunakan untuk kembali ke menu utama
+
+
+### •	Menu 6. Kelola Rekam Medis
+ 
+ > ![image](https://github.com/user-attachments/assets/a8b8d3d7-67ef-4f3a-a5e4-b06b7a669c31)
+
+Pada menu ini memiliki beberapa pilihan:
+#### 1.	Buat Rekam Medis Baru
+
+ > ![image](https://github.com/user-attachments/assets/233ab26d-14df-485a-8dea-4f4ac0fc05ba)
+
+Menu ini untuk membuat rekam medis baru dari pasien yang ada. Menu ini disuruh untuk memasukkan ID Pasien, ID Dokter, Diagnosis, Pengobatan, Catatan Tambahan, dan jika berhasil maka akan muncul ID Rekam Medis.
+
+ > ![image](https://github.com/user-attachments/assets/7ac219ab-2979-4498-b05c-794cd1b5846e)
+
+Jika memasukkan ID Pasien yang tidak terdaftar di sistem, maka akan menampilkan pesan Pasien dengan ID tersebut tidak ditemukan.
+
+ > ![image](https://github.com/user-attachments/assets/22a9e0ae-f3ac-4fdd-b56d-f407a6a2b9b8)
+
+Jika memasukkan ID Dokter yang tidak terdaftar di sistem, maka akan menampilka pesan Dokter dengan ID tersebut tidak ditemukan.
+#### 2.	Lihat Rekam Medis Pasien
+
+ > ![image](https://github.com/user-attachments/assets/8d89c453-1d7f-4d0e-baa8-8467df23a0d9)
+
+Pada menu ini akan disuruh untuk memasukkan ID Pasien dan akan muncul rekam media pasien dengan ID tersebut.
+
+ > ![image](https://github.com/user-attachments/assets/74bd14e6-55af-4a1d-b296-01ebd433f5cc)
+
+Namun jika kita memasukkan ID Pasien yang belum di periksa atau memiliki rekam medis sebelumnya maka akan menampilkan peringatan tidak ada rekam medis untuk pasien tersebut.
+#### 0.	Kembali : Digunakan untuk kembali ke menu utama
+
+
+### •	Menu 7. Kelola Antrian Darurat
+ 
+ > ![image](https://github.com/user-attachments/assets/2babfa9e-b478-4951-b4be-49cbe77cd59a)
+
+Pada menu ini memiliki beberapa pilihan:
+#### 1.	Tambah Pasien ke Antrian Darurat
+
+ > ![image](https://github.com/user-attachments/assets/71965d58-efae-43f6-b3c2-a316e8b12c82)
+
+Menu ini akan meminta untuk memasukkan ID Pasien dan akan menambahkannya ke antrian darurat yang harus segera ditangani.
+
+ > ![image](https://github.com/user-attachments/assets/924ac07d-a7ba-4890-8395-a902ba6aee1b)
+
+Namun jika kita memasukkan ID Pasien yang tidak ada pada sistem, maka akan menampilkan pesan bahwa pasien tidak ditemukan.
+#### 2.	Proses Pasien Selanjutnya
+
+ > ![image](https://github.com/user-attachments/assets/f4188c8a-a244-43f1-aebf-fd96669f84ed)
+
+Menu ini akan menampilkan data pasien sesuai dengan urutan antrian darurat dan akan memproses penanganannya.
+#### 3.	Lihat Antrian
+
+ > ![image](https://github.com/user-attachments/assets/9b73e9fe-de29-4356-b60f-d73e57245bf9)
+
+Menu ini akan menampilkan jumlah antrian pasien darurat dan juga menampilkan pasien darurat mana yang akan ditangani dengan menampilkan ID Pasiennya
+#### 0.	Kembali : Digunakan untuk kembali ke menu utama
+
+
+### •	Menu 8. Kelola Riwayat Operasi
+
+ > ![image](https://github.com/user-attachments/assets/be35685e-aeed-4830-ac88-42e5e714701a)
+
+Pada menu ini memiliki beberapa pilihan:
+#### 1.	Tambah Riwayat Operasi
+
+ > ![image](https://github.com/user-attachments/assets/8d21035f-87d9-459a-8c30-608def5ae511)
+
+Pada menu ini pengguna akan disuruh untuk memasukkan ID Pasien yang akan dioperasi dan ID Dokter yang akan mengoperasi, serta prosedur operasi yang akan digunakan dan hasil operasinya, jika berhasil ditambahkan akan menampilkan pesan bahwa Riwayat operasi berhasil ditambahkan.
+#### 2.	Lihat Riwayat Operasi Terakhir
+
+ > ![image](https://github.com/user-attachments/assets/407b8c0a-eedf-4cf7-822d-8c0b77a1a605)
+
+Pada menu ini akan menampilkan Riwayat terakhir operasi yang dilakukan dengan keterangan jam operasi, ID Pasien, ID Dokter, Prosedur, dan Hasilnya.
+#### 3.	Lihat Semua Riwayat Operasi
+
+ > ![image](https://github.com/user-attachments/assets/5bcf526c-7be4-4e15-8059-a5755fbd23a8)
+
+Pada menu ini akan menampilkan semua Riwayat operasi yang telah dilakukan dengan keterangan jam operasi, ID Pasien, ID Dokter, Prosedur, dan Hasilnya
+#### 0.	Kembali : Digunakan untuk kembali ke menu utama
+
