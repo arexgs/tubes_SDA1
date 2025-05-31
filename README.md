@@ -118,3 +118,35 @@ Pada menu ini pengguna akan disuruh untuk memasukkan nama atau ID Perawat. Jika 
 
 Namun, jika kita memasukkan nama atau ID Perawat yang tidak valid, maka program akan memberi tahu jika Perawat tidak ditemukan.
 ##### 0.	Kembali  Digunakan untuk kembali ke menu utama
+
+
+### •	Menu 4. Kelola Janji Temu
+ 
+ > ![image](https://github.com/user-attachments/assets/805be866-5b6d-4cf2-8481-c778e71b55a8)
+
+Pada menu ini memiliki beberapa pilihan:
+#### 1.	Buat Janji Temu Baru  Untuk membuat janji temu baru
+
+>![image](https://github.com/user-attachments/assets/638c8fd1-d57c-4597-9868-740ae2e03a64)
+
+Untuk membuat janji temu baru maka disuruh untuk memasukkan ID Pasien, ID Dokter, Tanggal dan Waktu, Keluhan, dan Janji temu pun berhasil dibuat dan ID Janji Temu akan muncul.
+
+ > ![image](https://github.com/user-attachments/assets/2f2fca6c-ff7b-43a8-acd4-a71e8895724d)
+
+Jika memasukkan ID Pasien atau ID Dokter yang tidak ada pada sistem, program akan menampilkan peringatan bahwa Pasien dan Dokter tidak ditemukan.
+#### 2.	Lihat Semua Janji Temu 
+
+ > ![image](https://github.com/user-attachments/assets/f4c4b528-0bf5-46f7-aa6c-003a30636b5e)
+
+Menu ini akan menampilkan semua janji temu yang sudah didaftarkan pada menu buat janji temu baru. Pada Menu ini akan menampilkan ID Janji – ID Pasien – ID Dokter – Tanggal buat janji – Status Janji Temu.
+#### 3.	Update Status Janji Temu 
+
+ > ![image](https://github.com/user-attachments/assets/0d09eaf7-e8a0-4555-883a-50e5dec42028)
+
+Menu ini digunakan untuk mengupdate status janji temu dengan pilihan Pending, Selesai, dan Batal.
+#### 4.	Lihat Janji Temu
+
+ > ![image](https://github.com/user-attachments/assets/3f15609a-e2ab-47ae-9cfe-169128f32abd)
+
+Menu ini digunakanuntuk melihat Janji Temu Pasien dengan memasukkan ID Pasien
+#### 0.	Kembali : Digunakan untuk kembali ke menu utama
