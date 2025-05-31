@@ -88,3 +88,33 @@ Namun, jika kita memasukkan nama atau ID Pasien yang tidak valid, maka program a
 
 > 0.	Kembali --> Digunakan untuk kembali ke menu utama
 
+
+### •	Menu 3. Kelola Perawat
+ 
+ ![image](https://github.com/user-attachments/assets/1fcfd7f6-6ee2-49a6-898e-2ae8bab216d9)
+
+Pada menu ini memiliki beberapa pilihan:
+> 1.	Tambah Perawat  Untuk menambah perawat
+
+![image](https://github.com/user-attachments/assets/882636f5-d3c2-423c-bc3e-68b919a77df9)
+
+Saat menambahkan perawat baru, pengguna disuruh untuk mengisi ID, Nama, Umur, Alamat, Telepon, Shift, Departemen, dan perawat pun berhasil didaftarkan.
+
+ ![image](https://github.com/user-attachments/assets/3f1b60e8-7721-447e-877f-1a4d293cb55c)
+
+Namun jika pengguna memasukkan ID Perawat yang sudah ada program akan memberi tau jika sudah ada perawat dengan ID tersebut.
+> 2.	Lihat Semua Perawat  Untuk melihat semua perawat
+
+![image](https://github.com/user-attachments/assets/b7d32830-2b91-4384-a755-da192c81fe2d)
+
+Pada menu ini akan menampilkan Nama Perawat (ID Perawat) – Departmen – dan Shiftnya.
+> 3.	Cari Perawat  Mencari Perawat
+
+![image](https://github.com/user-attachments/assets/0e9c20db-5dfb-4669-ab11-1bc5af5502f9)
+
+Pada menu ini pengguna akan disuruh untuk memasukkan nama atau ID Perawat. Jika ditemukan maka akan menampilkan Nama Perawat (ID Perawat) – Departmen – dan Shiftnya.
+ 
+ > ![image](https://github.com/user-attachments/assets/c83a7921-c3d4-4d7d-855d-012687ed3360)
+
+Namun, jika kita memasukkan nama atau ID Perawat yang tidak valid, maka program akan memberi tahu jika Perawat tidak ditemukan.
+> 0.	Kembali  Digunakan untuk kembali ke menu utama
