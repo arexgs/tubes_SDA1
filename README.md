@@ -1,9 +1,20 @@
 Untuk menjalankan program Daisuke Clinic yang telah di modularisi ke dalam beberapa file
 
+> ![Screenshot 2025-05-30 185927](https://github.com/user-attachments/assets/7cfb4cd5-2274-4593-b898-dc83bd2f026b)
+
 Untuk memulai program
 1. Buka Terminal untuk mengcompile program
+
+   > ![Screenshot 2025-05-30 190146](https://github.com/user-attachments/assets/d20c3f65-f297-43ce-bec7-bedb8227c655)
+
 2. Compile semua program java dengan:
+
+    > ![image](https://github.com/user-attachments/assets/4836b01b-7507-47be-a114-77a923320a00)
+
 3. Setelah di compile jalankan file Main
+
+   > ![image](https://github.com/user-attachments/assets/866ff1df-d2c0-44ae-8c03-8bd77c5a79ea)
+
 
 Program saat dijalankan:
 
