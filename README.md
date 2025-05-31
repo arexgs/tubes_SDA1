@@ -9,47 +9,46 @@ Program saat dijalankan:
 
 •	Setelah di compile. Program akan mengoutput tampilan Selamat Datang dan 13 Menu Utama (termasuk menu keluar).
  
- ![image](https://github.com/user-attachments/assets/ce408004-1fbf-4b9d-b280-e9424ca5acb1)
-
+![image](https://github.com/user-attachments/assets/544d0208-c81d-4e69-b6a5-b96ae373b5d6)
 
 ### •	**Menu 1. Kelola dokter**
  
- ![image](https://github.com/user-attachments/assets/c0e1d65c-e026-4008-a204-93dd8529c937)
+![image](https://github.com/user-attachments/assets/df7bfe3a-cc0c-4d44-8d20-899193143c5e)
 
 Pada menu ini memiliki beberapa pilihan:
 > 1.	Tambah Dokter --> Menu ini digunakan untuk menambahkan dokter baru
  
- ![image](https://github.com/user-attachments/assets/9bcadb25-dcd4-4632-b7b4-3373080380e3)
+![image](https://github.com/user-attachments/assets/6a270107-06a6-428d-9133-9ca79259a236)
 
 Menu ini akan meminta pengguna untuk memasukkan ID Dokter, Nama, Umur, Alamat, Telepon, Spesialisasi, dan Jadwal Praktik.
  
- ![image](https://github.com/user-attachments/assets/8d236363-54a7-4b2e-b090-b8565cd2d291)
+![image](https://github.com/user-attachments/assets/b6dda4b9-7621-4e14-afe3-1ca83b349c94)
 
 Namun jika pengguna memasukkan ID Dokter yang sudah ada program akan memberi tau jika sudah ada dokter dengan ID tersebut.
 
 > 2.	Lihat Semua Dokter --> Menu ini menampilkan semua dokter yang ada di RS ini
  
-![image](https://github.com/user-attachments/assets/c3370d12-6b2c-42a9-9913-5f1a63aee739)
+![image](https://github.com/user-attachments/assets/9e71c0dc-6736-4c09-a6e2-0542814e797c)
 
 Menu ini akan menampilkan nama dokter secara terurut berdasarkan abjad namanya, dan diikuti dengan ID Dokter, Spesialis, dan Ketersediaannya.
 
 > 3.	Cari Dokter --> Menu ini digunakan untuk mencari dokter 
 
- ![image](https://github.com/user-attachments/assets/6ccd9383-4f46-4217-b720-2e6642846d7a)
+![image](https://github.com/user-attachments/assets/10923aa5-a141-498b-abbd-93f30486df6c)
 
 Saat kita memasukkan nama atau ID Dokter, maka program akan memberi tahu apakah ditemukan atau tidak. Jika ditemukan maka akan menampilkan Nama (ID Dokter) – Spesialis – Ketersediaannya serta Jadwalnya
 
- ![image](https://github.com/user-attachments/assets/f9907543-96f1-43aa-89f3-36949608c2b6)
+![image](https://github.com/user-attachments/assets/c3248e17-eaa9-4ada-acdc-4e401d377d7d)
 
 Namun, jika kita memasukkan nama atau ID Dokter yang tidak ada, maka program akan memberi tahu jika dokter tidak ditemukan.
 
 > 4.	Update Status Ketersediaan --> Mengubah Status Ketersediaan Dokter
 
- ![image](https://github.com/user-attachments/assets/9fb42416-ef36-417b-8ef3-ef98ddf46ea1)
+![image](https://github.com/user-attachments/assets/0c8067e4-8aa8-4f16-9cf3-1ed6716c3d44)
 
 Saat mengubah status dari Tersedia menjadi Tidak Tersedia, maka masukkan huruf ‘T’.
  
- ![image](https://github.com/user-attachments/assets/0c52c00f-2204-4c60-aaa1-7e6fd3abe11a)
+![image](https://github.com/user-attachments/assets/1fc1cf4b-d434-475b-85e1-fc5b62a28feb)
 
 Untuk mengubah status dari Tidak Tersedia menjadi Tersedia, maka masukkan huruf ‘Y’.
 
@@ -57,31 +56,33 @@ Untuk mengubah status dari Tidak Tersedia menjadi Tersedia, maka masukkan huruf 
 
 
 ### **•	Menu 2. Kelola Pasien**
+
+![image](https://github.com/user-attachments/assets/10343fc7-899b-4c31-98a9-8314de325400)
  
 Pada menu ini memiliki beberapa pilihan:
 > 1.	Daftar Pasien Baru --> Digunakan untuk menambahkan pasien baru
 
- ![image](https://github.com/user-attachments/assets/c77087e1-2423-4063-82c3-1b54b647821f)
+![image](https://github.com/user-attachments/assets/18a04d1b-685c-4dcf-9e27-0ccc5e73152d)
 
 Saat mendaftarkan pasien baru, pengguna disuruh untuk mengisi Nama, Umur, Alamat, Telepon, Riwayat Medis, Golongan darah, dan pasien pun berhasil didaftarkan.
 
-![image](https://github.com/user-attachments/assets/eb36af3b-b06c-436b-9b07-7aec90e7b648)
+![image](https://github.com/user-attachments/assets/9f254158-9bce-45de-a26d-69b2da1f455e)
 
 Namun jika pengguna memasukkan ID Pasien yang sudah ada program akan memberi tau jika sudah ada pasien dengan ID tersebut.
 
 > 2.	Lihat Semua Pasien --> Untuk melihat semua pasien yang ada
 
- ![image](https://github.com/user-attachments/assets/8fba2f99-5257-4497-9c78-2c4ab77863d2)
+![image](https://github.com/user-attachments/assets/90108fec-390e-4b1e-b27d-eacaf834fad9)
 
 Pada menu ini akan menampilkan semua pasien yang ada beserta dengan jam masuk RS dan golongan darahnya.
 
 > 3.	Cari Pasien --> Untuk mencari pasien
 
- ![image](https://github.com/user-attachments/assets/97479fa7-12de-467f-896b-48e771f48c3e)
+![image](https://github.com/user-attachments/assets/19edeeab-8eb4-4749-bdad-b79df708cf79)
 
 Pada menu ini pengguna akan disuruh untuk memasukkan nama atau ID Pasien. Jika ditemukan maka akan menampilkan Nama Pasien (ID Pasien) – Tanggal Masuk RS – Golongan darah dan Riwayat Medisnya.
 
- ![image](https://github.com/user-attachments/assets/8f83d5b4-0945-4927-a72a-c40bd8f1da33)
+![image](https://github.com/user-attachments/assets/fc92960d-cc50-495b-8a3f-9cc632addbbc)
 
 Namun, jika kita memasukkan nama atau ID Pasien yang tidak valid, maka program akan memberi tahu jika Pasien tidak ditemukan.
 
