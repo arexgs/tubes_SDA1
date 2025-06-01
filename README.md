@@ -285,7 +285,7 @@ Pada menu ini akan menampilkan semua Riwayat operasi yang telah dilakukan dengan
 
 > ![image](https://github.com/user-attachments/assets/3bb5cd06-7210-4bac-9d64-cba0b702f3d0)
 
-Menu ini digunakan untuk memuudahkan mencari data yang ada pada sistem. 
+Menu ini digunakan untuk memuudahkan mencari data yang ada pada sistem dengan memasukkan kata kunci pencarian.
 
 > ![image](https://github.com/user-attachments/assets/3a19528a-164f-43e8-893b-efaed48175f2)
 
