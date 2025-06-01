@@ -283,6 +283,29 @@ Pada menu ini akan menampilkan semua Riwayat operasi yang telah dilakukan dengan
 
 ### •	Menu 9. Cari Data
 
+> ![image](https://github.com/user-attachments/assets/3bb5cd06-7210-4bac-9d64-cba0b702f3d0)
+
+Menu ini digunakan untuk memuudahkan mencari data yang ada pada sistem. 
+
+> ![image](https://github.com/user-attachments/assets/3a19528a-164f-43e8-893b-efaed48175f2)
+
+Jika kita memasukkan kata kunci DOK maka program akan menampilkan hasil semua dokter yang ada di sistem.
+
+> ![image](https://github.com/user-attachments/assets/84e80d23-5553-4a00-830f-83a21d1d0d89)
+
+Jika kita memasukkan kata kunci PAS, maka program akan menampilkan hasil semua pasien yang ada di sistem.
+
+> ![image](https://github.com/user-attachments/assets/4ca9bebd-4917-49d0-9436-5f1eebf92cae)
+
+Jika kita memasukkan kata kunci PER, maka program akan menampilkan hasil semua perawat yang ada di sistem.
+
+> ![image](https://github.com/user-attachments/assets/a34f79a7-1dab-487f-a129-ec4cd92dc387)
+
+Jika data ditemukan program akan menampilkan hasil pencarian data yang sesuai dengan yang dicari.
+
+> ![image](https://github.com/user-attachments/assets/583e9369-7580-4e30-a5d0-ac8712d88f55)
+
+Namun, jika data yang dimasukkan tidak ditemukan pada sistem, maka program akan menampilkan pesan bahwa tidak ditemukan data yang sesuai.
 
 
 ### •	Menu 10. Laporan
