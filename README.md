@@ -252,7 +252,7 @@ Namun jika kita memasukkan ID Pasien yang tidak ada pada sistem, maka akan menam
 Menu ini akan menampilkan data pasien sesuai dengan urutan antrian darurat dan akan memproses penanganannya.
 #### 3.	Lihat Antrian
 
- > ![image](https://github.com/user-attachments/assets/9b73e9fe-de29-4356-b60f-d73e57245bf9)
+ > ![image](https://github.com/user-attachments/assets/c3d40359-7324-4b35-ba82-90d7b9399665)
 
 Menu ini akan menampilkan jumlah antrian pasien darurat dan juga menampilkan pasien darurat mana yang akan ditangani dengan menampilkan ID Pasiennya.
 #### 0.	Kembali : Digunakan untuk kembali ke menu utama
