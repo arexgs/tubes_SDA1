@@ -47,7 +47,7 @@ Menu ini akan menampilkan nama dokter secara terurut berdasarkan abjad namanya, 
 
 > ![image](https://github.com/user-attachments/assets/10923aa5-a141-498b-abbd-93f30486df6c)
 
-Saat kita memasukkan nama atau ID Dokter, maka program akan memberi tahu apakah ditemukan atau tidak. Jika ditemukan maka akan menampilkan Nama (ID Dokter) – Spesialis – Ketersediaannya serta Jadwalnya
+Saat kita memasukkan nama atau ID Dokter, maka program akan memberi tahu apakah ditemukan atau tidak. Jika ditemukan maka akan menampilkan Nama (ID Dokter) – Spesialis – Ketersediaannya serta Jadwalnya.
 
 > ![image](https://github.com/user-attachments/assets/c3248e17-eaa9-4ada-acdc-4e401d377d7d)
 
@@ -159,7 +159,7 @@ Menu ini digunakan untuk mengupdate status janji temu dengan pilihan Pending, Se
 
  > ![image](https://github.com/user-attachments/assets/3f15609a-e2ab-47ae-9cfe-169128f32abd)
 
-Menu ini digunakan untuk melihat Janji Temu Pasien dengan memasukkan ID Pasien
+Menu ini digunakan untuk melihat Janji Temu Pasien dengan memasukkan ID Pasien.
 #### 0.	Kembali : Digunakan untuk kembali ke menu utama
 
 ### •	Menu 5. Kelola Kamar
@@ -254,7 +254,7 @@ Menu ini akan menampilkan data pasien sesuai dengan urutan antrian darurat dan a
 
  > ![image](https://github.com/user-attachments/assets/9b73e9fe-de29-4356-b60f-d73e57245bf9)
 
-Menu ini akan menampilkan jumlah antrian pasien darurat dan juga menampilkan pasien darurat mana yang akan ditangani dengan menampilkan ID Pasiennya
+Menu ini akan menampilkan jumlah antrian pasien darurat dan juga menampilkan pasien darurat mana yang akan ditangani dengan menampilkan ID Pasiennya.
 #### 0.	Kembali : Digunakan untuk kembali ke menu utama
 
 
@@ -277,7 +277,7 @@ Pada menu ini akan menampilkan Riwayat terakhir operasi yang dilakukan dengan ke
 
  > ![image](https://github.com/user-attachments/assets/5bcf526c-7be4-4e15-8059-a5755fbd23a8)
 
-Pada menu ini akan menampilkan semua Riwayat operasi yang telah dilakukan dengan keterangan jam operasi, ID Pasien, ID Dokter, Prosedur, dan Hasilnya
+Pada menu ini akan menampilkan semua Riwayat operasi yang telah dilakukan dengan keterangan jam operasi, ID Pasien, ID Dokter, Prosedur, dan Hasilnya.
 #### 0.	Kembali : Digunakan untuk kembali ke menu utama
 
 
@@ -289,7 +289,7 @@ Pada menu ini akan menampilkan semua Riwayat operasi yang telah dilakukan dengan
 
  > ![image](https://github.com/user-attachments/assets/8c4a28c7-c569-4782-bf61-65d56158246b)
 
-Menu 10 ini akan menampilkan laporan rumah sakit sejauh sistem berjalan, dengan keterangan jumlah dokter, pasien, perawat jumlah kamar dari total, yang terisi dan kamar kosong, serta jumlah janji temu dari yang pending, selesai, sampai batal, dan akan menampilkan jumlah pasien darurat yang menunggu.
+Menu 10 ini akan menampilkan laporan rumah sakit sejauh sistem berjalan, dengan keterangan jumlah dokter, pasien, perawat, jumlah kamar dari total, yang terisi dan kamar kosong, serta jumlah janji temu dari yang pending, selesai, sampai batal, dan juga akan menampilkan jumlah pasien darurat yang menunggu untuk ditangani.
 
 ### •	Menu 11. Simulasi Harian
 
