@@ -9,7 +9,7 @@
 
 ####  2. Compile semua program java dengan:
 
-    > ![image](https://github.com/user-attachments/assets/4836b01b-7507-47be-a114-77a923320a00)
+> ![image](https://github.com/user-attachments/assets/5d03941e-d7ac-4f4d-b1ed-f31dc6cb1df2)
 
 #### 3. Setelah di compile jalankan file Main
 
