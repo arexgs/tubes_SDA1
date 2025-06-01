@@ -2,7 +2,7 @@ Untuk menjalankan program Daisuke Clinic yang telah di modularisi ke dalam beber
 
 > ![Screenshot 2025-05-30 185927](https://github.com/user-attachments/assets/7cfb4cd5-2274-4593-b898-dc83bd2f026b)
 
-Untuk memulai program
+**Untuk memulai program:**
 1. Buka Terminal untuk mengcompile program
 
    > ![Screenshot 2025-05-30 190146](https://github.com/user-attachments/assets/d20c3f65-f297-43ce-bec7-bedb8227c655)
@@ -16,7 +16,7 @@ Untuk memulai program
    > ![image](https://github.com/user-attachments/assets/866ff1df-d2c0-44ae-8c03-8bd77c5a79ea)
 
 
-Program saat dijalankan:
+**Program saat dijalankan:**
 
 •	Setelah di compile. Program akan mengoutput tampilan Selamat Datang dan 13 Menu Utama (termasuk menu keluar).
  
@@ -289,15 +289,15 @@ Jika kita memasukkan kata kunci pada menu ini maka akan menampilkan hasil yang d
 
 > ![image](https://github.com/user-attachments/assets/fbcdd642-2157-4171-b585-b5fb43c32cfe)
 
-Jika kita memasukkan kata kunci DOK maka program akan menampilkan hasil semua dokter yang ada di sistem.
+Jika kita memasukkan kata kunci 'DOK' maka program akan menampilkan hasil semua dokter yang ada di sistem.
 
  > ![image](https://github.com/user-attachments/assets/da858ed9-3ac6-481f-93ec-f5a5b1a06ee0)
 
-Jika kita memasukkan kata kunci PAS, maka program akan menampilkan hasil semua pasien yang ada di sistem.
+Jika kita memasukkan kata kunci 'PAS', maka program akan menampilkan hasil semua pasien yang ada di sistem.
 
  > ![image](https://github.com/user-attachments/assets/e53d39fb-1414-40bb-835b-5060beb47757)
 
-Jika kita memasukkan kata kunci PER, maka program akan menampilkan hasil semua perawat yang ada di sistem.
+Jika kita memasukkan kata kunci 'PER', maka program akan menampilkan hasil semua perawat yang ada di sistem.
 
  > ![image](https://github.com/user-attachments/assets/60820186-a171-403b-b4c6-0d0f395d17d2)
 
