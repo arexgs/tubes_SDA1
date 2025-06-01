@@ -1,33 +1,33 @@
-Untuk menjalankan program Daisuke Clinic yang telah di modularisi ke dalam beberapa file
+# Penjelasan untuk menjalankan program Daisuke Clinic yang telah di modularisi ke dalam beberapa file
 
 > ![Screenshot 2025-05-30 185927](https://github.com/user-attachments/assets/7cfb4cd5-2274-4593-b898-dc83bd2f026b)
 
-**Untuk memulai program:**
-1. Buka Terminal untuk mengcompile program
+## **Untuk memulai program:**
+#### 1. Buka Terminal untuk mengcompile program
 
    > ![Screenshot 2025-05-30 190146](https://github.com/user-attachments/assets/d20c3f65-f297-43ce-bec7-bedb8227c655)
 
-2. Compile semua program java dengan:
+####  2. Compile semua program java dengan:
 
     > ![image](https://github.com/user-attachments/assets/4836b01b-7507-47be-a114-77a923320a00)
 
-3. Setelah di compile jalankan file Main
+#### 3. Setelah di compile jalankan file Main
 
    > ![image](https://github.com/user-attachments/assets/866ff1df-d2c0-44ae-8c03-8bd77c5a79ea)
 
 
-**Program saat dijalankan:**
+## **Program saat dijalankan:**
 
-•	Setelah di compile. Program akan mengoutput tampilan Selamat Datang dan 13 Menu Utama (termasuk menu keluar).
+#### •	Setelah di compile. Program akan mengoutput tampilan Selamat Datang dan 13 Menu Utama (termasuk menu keluar).
  
 > ![image](https://github.com/user-attachments/assets/544d0208-c81d-4e69-b6a5-b96ae373b5d6)
 
-### •	**Menu 1. Kelola dokter**
+### •	**Menu 1. Kelola Dokter**
  
 > ![image](https://github.com/user-attachments/assets/df7bfe3a-cc0c-4d44-8d20-899193143c5e)
 
 Pada menu ini memiliki beberapa pilihan:
-#### 1.	Tambah Dokter --> Menu ini digunakan untuk menambahkan dokter baru
+#### 1.	Tambah Dokter : Menu ini digunakan untuk menambahkan dokter baru
  
 > ![image](https://github.com/user-attachments/assets/6a270107-06a6-428d-9133-9ca79259a236)
 
@@ -37,13 +37,13 @@ Menu ini akan meminta pengguna untuk memasukkan ID Dokter, Nama, Umur, Alamat, T
 
 Namun jika pengguna memasukkan ID Dokter yang sudah ada program akan memberi tau jika sudah ada dokter dengan ID tersebut.
 
-#### 2.	Lihat Semua Dokter --> Menu ini menampilkan semua dokter yang ada di RS ini
+#### 2.	Lihat Semua Dokter : Menu ini menampilkan semua dokter yang ada di RS ini
  
 > ![image](https://github.com/user-attachments/assets/9e71c0dc-6736-4c09-a6e2-0542814e797c)
 
 Menu ini akan menampilkan nama dokter secara terurut berdasarkan abjad namanya, dan diikuti dengan ID Dokter, Spesialis, dan Ketersediaannya.
 
-#### 3.	Cari Dokter --> Menu ini digunakan untuk mencari dokter 
+#### 3.	Cari Dokter : Menu ini digunakan untuk mencari dokter 
 
 > ![image](https://github.com/user-attachments/assets/10923aa5-a141-498b-abbd-93f30486df6c)
 
@@ -53,7 +53,7 @@ Saat kita memasukkan nama atau ID Dokter, maka program akan memberi tahu apakah 
 
 Namun, jika kita memasukkan nama atau ID Dokter yang tidak ada, maka program akan memberi tahu jika dokter tidak ditemukan.
 
-#### 4.	Update Status Ketersediaan --> Mengubah Status Ketersediaan Dokter
+#### 4.	Update Status Ketersediaan : Mengubah Status Ketersediaan Dokter
 
 > ![image](https://github.com/user-attachments/assets/0c8067e4-8aa8-4f16-9cf3-1ed6716c3d44)
 
@@ -63,7 +63,7 @@ Saat mengubah status dari Tersedia menjadi Tidak Tersedia, maka masukkan huruf �
 
 Untuk mengubah status dari Tidak Tersedia menjadi Tersedia, maka masukkan huruf ‘Y’.
 
-#### 0.	Kembali --> Digunakan untuk kembali ke menu utama.
+#### 0.	Kembali : Digunakan untuk kembali ke menu utama.
 
 
 ### **•	Menu 2. Kelola Pasien**
@@ -71,7 +71,7 @@ Untuk mengubah status dari Tidak Tersedia menjadi Tersedia, maka masukkan huruf 
 > ![image](https://github.com/user-attachments/assets/10343fc7-899b-4c31-98a9-8314de325400)
  
 Pada menu ini memiliki beberapa pilihan:
-#### 1.	Daftar Pasien Baru --> Digunakan untuk menambahkan pasien baru
+#### 1.	Daftar Pasien Baru : Digunakan untuk menambahkan pasien baru
 
 > ![image](https://github.com/user-attachments/assets/18a04d1b-685c-4dcf-9e27-0ccc5e73152d)
 
@@ -81,13 +81,13 @@ Saat mendaftarkan pasien baru, pengguna disuruh untuk mengisi Nama, Umur, Alamat
 
 Namun jika pengguna memasukkan ID Pasien yang sudah ada program akan memberi tau jika sudah ada pasien dengan ID tersebut.
 
-#### 2.	Lihat Semua Pasien --> Untuk melihat semua pasien yang ada
+#### 2.	Lihat Semua Pasien : Untuk melihat semua pasien yang ada
 
 > ![image](https://github.com/user-attachments/assets/90108fec-390e-4b1e-b27d-eacaf834fad9)
 
 Pada menu ini akan menampilkan semua pasien yang ada beserta dengan jam masuk RS dan golongan darahnya.
 
-#### 3.	Cari Pasien --> Untuk mencari pasien
+#### 3.	Cari Pasien : Untuk mencari pasien
 
 > ![image](https://github.com/user-attachments/assets/19edeeab-8eb4-4749-bdad-b79df708cf79)
 
@@ -97,7 +97,7 @@ Pada menu ini pengguna akan disuruh untuk memasukkan nama atau ID Pasien. Jika d
 
 Namun, jika kita memasukkan nama atau ID Pasien yang tidak valid, maka program akan memberi tahu jika Pasien tidak ditemukan.
 
-#### 0.	Kembali --> Digunakan untuk kembali ke menu utama
+#### 0.	Kembali : Digunakan untuk kembali ke menu utama
 
 
 ### •	Menu 3. Kelola Perawat
@@ -159,7 +159,7 @@ Menu ini digunakan untuk mengupdate status janji temu dengan pilihan Pending, Se
 
  > ![image](https://github.com/user-attachments/assets/3f15609a-e2ab-47ae-9cfe-169128f32abd)
 
-Menu ini digunakanuntuk melihat Janji Temu Pasien dengan memasukkan ID Pasien
+Menu ini digunakan untuk melihat Janji Temu Pasien dengan memasukkan ID Pasien
 #### 0.	Kembali : Digunakan untuk kembali ke menu utama
 
 ### •	Menu 5. Kelola Kamar
@@ -307,3 +307,27 @@ Jika kita memasukkan kata kunci nama, maka program akan mencari dan menampilkan 
 
 Namun jika kita memasukkan kata kunci yang tidak ada di sistem, maka program akan memberi pesan bahwa tidak ditemukan data yang sesuai.
 
+
+### •	Menu 10. Laporan
+
+ > ![image](https://github.com/user-attachments/assets/8c4a28c7-c569-4782-bf61-65d56158246b)
+
+Menu 10 ini akan menampilkan laporan rumah sakit sejauh sistem berjalan, dengan keterangan jumlah dokter, pasien, perawat jumlah kamar dari total, yang terisi dan kamar kosong, serta jumlah janji temu dari yang pending, selesai, sampai batal, dan akan menampilkan jumlah pasien darurat yang menunggu.
+
+### •	Menu 11. Simulasi Harian
+
+ > ![image](https://github.com/user-attachments/assets/b9aec5f1-728f-49aa-905c-5cbb41597673)
+
+Menu ini digunakan untuk menyimulasikan aktivitas harian di rumah sakit mulai dari memproses antrian darurat hingga mengosongkan kamar pasien. Jika sudah selesai memproses maka akan menampilkan bahwa simulasi harian telah selesai.
+
+### •	Menu 12. Tentang Sistem
+
+ > ![image](https://github.com/user-attachments/assets/6a551887-fe29-4927-a6c0-9cf27cf7b335)
+
+Pada menu ini akan menampilkan sistem dan struktur data utama yang digunakan pada sistem manajemen rumah sakit yang telah kami buat.
+
+### •	Menu 0. Keluar
+
+ > ![image](https://github.com/user-attachments/assets/5555bbe1-21e1-4811-9351-2c9af55ded7e)
+
+Menu ini akan mengelurkan kita dari sistem dan menampilkan pesan terima kasih karena telah menggunakan sistem kami.
