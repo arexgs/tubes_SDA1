@@ -1,6 +1,6 @@
 # Penjelasan untuk menjalankan program Daisuke Clinic yang telah di modularisi ke dalam beberapa file
 
-> ![Screenshot 2025-05-30 185927](https://github.com/user-attachments/assets/7cfb4cd5-2274-4593-b898-dc83bd2f026b)
+>![image](https://github.com/user-attachments/assets/6b54ca86-1629-4899-9194-3d88685c3ef2)
 
 ## **Untuk memulai program:**
 #### 1. Buka Terminal untuk mengcompile program
@@ -24,51 +24,51 @@
 
 ### •	**Menu 1. Kelola Dokter**
  
-> ![image](https://github.com/user-attachments/assets/df7bfe3a-cc0c-4d44-8d20-899193143c5e)
+> ![image](https://github.com/user-attachments/assets/3e6ad6b4-c9ab-4ee2-a1ff-536b99c85c4e)
 
 Pada menu ini memiliki beberapa pilihan:
-#### 1.	Login Dokter : Menu ini digunakan untuk menambahkan dokter baru
+#### 1.	Login Dokter : Menu ini digunakan untuk menambahkan dokter baru dan login dokter yang ada di sistem
  
-> ![image](https://github.com/user-attachments/assets/6a270107-06a6-428d-9133-9ca79259a236)
+> ![image](https://github.com/user-attachments/assets/da1c1722-da67-422f-8611-db28b46df916)
 
-Menu ini akan meminta pengguna untuk memasukkan ID Dokter, Nama, Umur, Alamat, Telepon, Spesialisasi, dan Jadwal Praktik.
+Jika memasukkan ID Dokter yang tidak ada di sistem maka akan otomatis menambah dokter baru dan akan dilanjutkan dengan memasukkan Nama, Umur, Alamat, Telepon, Spesialisasi, dan Jadwal Praktik. Saat berhasail menambahkan dokter baru, maka statusnya akan diubah menjadi ‘Tersedia’.
  
-> ![image](https://github.com/user-attachments/assets/b6dda4b9-7621-4e14-afe3-1ca83b349c94)
+> ![image](https://github.com/user-attachments/assets/011702dd-cdf1-48c9-86b3-bcfdfea2e878)
 
-Namun jika pengguna memasukkan ID Dokter yang sudah ada program akan memberi tau jika sudah ada dokter dengan ID tersebut.
+Jika memasukkan ID Dokter yang sudah ada di sistem, maka status dokter tersebut akan berubah menjadi ‘Tersedia’
 
-#### 2.	Lihat Semua Dokter : Menu ini menampilkan semua dokter yang ada di RS ini
+#### 2.	Lihat Semua Dokter
  
-> ![image](https://github.com/user-attachments/assets/9e71c0dc-6736-4c09-a6e2-0542814e797c)
+> ![image](https://github.com/user-attachments/assets/06c1a214-f339-4a68-8d62-bd3d4bfb1bc8)
 
-Menu ini akan menampilkan nama dokter secara terurut berdasarkan abjad namanya, dan diikuti dengan ID Dokter, Spesialis, dan Ketersediaannya.
+Menu ini akan menampilkan nama dokter yang ada di sistem manajemen rumah sakit secara terurut berdasarkan abjad namanya, dan diikuti dengan ID Dokter, Spesialis, dan Status ketersediaannya.
 
-#### 3.	Cari Dokter : Menu ini digunakan untuk mencari dokter 
+#### 3.	Cari Dokter
 
-> ![image](https://github.com/user-attachments/assets/10923aa5-a141-498b-abbd-93f30486df6c)
+> ![image](https://github.com/user-attachments/assets/5e2d05cd-5bf6-4add-afe2-ad777f82b603)
 
-Saat kita memasukkan nama atau ID Dokter, maka program akan memberi tahu apakah ditemukan atau tidak. Jika ditemukan maka akan menampilkan Nama (ID Dokter) – Spesialis – Ketersediaannya serta Jadwalnya.
+Saat kita memasukkan nama atau ID Dokter, maka program akan memberi tahu apakah ditemukan atau tidak. Jika ditemukan maka akan menampilkan Nama (ID Dokter) – Spesialis – Ketersediaannya serta Jadwal praktiknya.
 
 > ![image](https://github.com/user-attachments/assets/c3248e17-eaa9-4ada-acdc-4e401d377d7d)
 
 Namun, jika kita memasukkan nama atau ID Dokter yang tidak ada, maka program akan memberi tahu jika dokter tidak ditemukan.
 
-#### 4.	Update Status Ketersediaan : Mengubah Status Ketersediaan Dokter
+#### 4.	Logout Dokter
 
-> ![image](https://github.com/user-attachments/assets/0c8067e4-8aa8-4f16-9cf3-1ed6716c3d44)
+> ![image](https://github.com/user-attachments/assets/249d6547-6495-44a2-8dcc-bd01207db12b)
 
-Saat mengubah status dari Tersedia menjadi Tidak Tersedia, maka masukkan huruf ‘T’.
+Menu ini digunakan untuk logout dokter dengan memasukkan ID Dokter dan akan mengubah status dokter menjadi tidak tersedia.
  
-> ![image](https://github.com/user-attachments/assets/1fc1cf4b-d434-475b-85e1-fc5b62a28feb)
+> ![image](https://github.com/user-attachments/assets/739ec2ae-10e1-4cf4-a771-255e210999aa)
 
-Untuk mengubah status dari Tidak Tersedia menjadi Tersedia, maka masukkan huruf ‘Y’.
+Namun jika kita memasukkan ID Dokter yang tidak ada di sistem, maka akan menampilkan bahwa dokter tidak ditemukan.
 
 #### 0.	Kembali : Digunakan untuk kembali ke menu utama.
 
 
 ### **•	Menu 2. Kelola Pasien**
 
-> ![image](https://github.com/user-attachments/assets/10343fc7-899b-4c31-98a9-8314de325400)
+> ![image](https://github.com/user-attachments/assets/66427258-c125-4b57-9585-c0d6a3bbafc8)
  
 Pada menu ini memiliki beberapa pilihan:
 #### 1.	Daftar Pasien Baru : Digunakan untuk menambahkan pasien baru
@@ -96,6 +96,17 @@ Pada menu ini pengguna akan disuruh untuk memasukkan nama atau ID Pasien. Jika d
 > ![image](https://github.com/user-attachments/assets/fc92960d-cc50-495b-8a3f-9cc632addbbc)
 
 Namun, jika kita memasukkan nama atau ID Pasien yang tidak valid, maka program akan memberi tahu jika Pasien tidak ditemukan.
+
+#### 4. Status Pasien
+4.	Status Pasien
+
+ > ![image](https://github.com/user-attachments/assets/ccfb9980-97c3-4b33-b854-1d490a122b68)
+
+Menu ini digunakan untuk mengganti status keadaan pasien sekarang dengan empat pilihaan dari dirawat, dipulangkan, dirujuk, hingga meninggal dengan memasukkan ID Pasien Jika memilih pilihan , dipulangkan, dirujuk, dan meninggal, maka pasien tersebut akan langsung terhapus dari sistem.
+
+ > ![image](https://github.com/user-attachments/assets/5b2d5b05-ded1-4e01-9205-731cc533f4e7)
+
+Namun, jika memasukkan ID Pasien yang tidak terdaftar di sistem, maka program akan memberi pesan bahwa pasien tidak ditemukan.
 
 #### 0.	Kembali : Digunakan untuk kembali ke menu utama
 
