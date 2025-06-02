@@ -27,7 +27,7 @@
 > ![image](https://github.com/user-attachments/assets/df7bfe3a-cc0c-4d44-8d20-899193143c5e)
 
 Pada menu ini memiliki beberapa pilihan:
-#### 1.	Tambah Dokter : Menu ini digunakan untuk menambahkan dokter baru
+#### 1.	Login Dokter : Menu ini digunakan untuk menambahkan dokter baru
  
 > ![image](https://github.com/user-attachments/assets/6a270107-06a6-428d-9133-9ca79259a236)
 
